@@ -3172,3 +3172,31 @@ SyntaxError: invalid syntax. Perhaps you forgot a comma?
 [2025-05-15T09:57:17.371+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:57:17.371+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2025-05-15T09:57:17.396+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:57:17.396+0000] {dag.py:4180} INFO - Setting next_dagrun for 03_python_args_dag to 2025-05-15 01:30:00+00:00, run_after=2025-05-16 01:30:00+00:00
 [2025-05-15T09:57:17.414+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/03_python_args_dag.py took 0.090 seconds
+[2025-05-15T09:57:47.952+0000] {processor.py:186} INFO - Started process (PID=6941) to work on /opt/airflow/dags/03_python_args_dag.py
+[2025-05-15T09:57:47.953+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/03_python_args_dag.py for tasks to queue
+[2025-05-15T09:57:47.956+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:57:47.955+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/03_python_args_dag.py
+[2025-05-15T09:57:47.966+0000] {processor.py:925} INFO - DAG(s) '03_python_args_dag' retrieved from /opt/airflow/dags/03_python_args_dag.py
+[2025-05-15T09:57:47.993+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:57:47.993+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-15T09:57:48.023+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:57:48.023+0000] {dag.py:4180} INFO - Setting next_dagrun for 03_python_args_dag to 2025-05-15 01:30:00+00:00, run_after=2025-05-16 01:30:00+00:00
+[2025-05-15T09:57:48.042+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/03_python_args_dag.py took 0.097 seconds
+[2025-05-15T09:58:18.715+0000] {processor.py:186} INFO - Started process (PID=6954) to work on /opt/airflow/dags/03_python_args_dag.py
+[2025-05-15T09:58:18.716+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/03_python_args_dag.py for tasks to queue
+[2025-05-15T09:58:18.719+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:18.718+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/03_python_args_dag.py
+[2025-05-15T09:58:18.730+0000] {processor.py:925} INFO - DAG(s) '03_python_args_dag' retrieved from /opt/airflow/dags/03_python_args_dag.py
+[2025-05-15T09:58:18.759+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:18.758+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-15T09:58:18.789+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:18.789+0000] {dag.py:4180} INFO - Setting next_dagrun for 03_python_args_dag to 2025-05-15 01:30:00+00:00, run_after=2025-05-16 01:30:00+00:00
+[2025-05-15T09:58:18.810+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/03_python_args_dag.py took 0.103 seconds
+[2025-05-15T09:58:49.324+0000] {processor.py:186} INFO - Started process (PID=6967) to work on /opt/airflow/dags/03_python_args_dag.py
+[2025-05-15T09:58:49.325+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/03_python_args_dag.py for tasks to queue
+[2025-05-15T09:58:49.328+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:49.328+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/03_python_args_dag.py
+[2025-05-15T09:58:49.340+0000] {processor.py:925} INFO - DAG(s) '03_python_args_dag' retrieved from /opt/airflow/dags/03_python_args_dag.py
+[2025-05-15T09:58:49.365+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:49.365+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-15T09:58:49.391+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:49.390+0000] {dag.py:4180} INFO - Setting next_dagrun for 03_python_args_dag to 2025-05-15 01:30:00+00:00, run_after=2025-05-16 01:30:00+00:00
+[2025-05-15T09:58:49.408+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/03_python_args_dag.py took 0.090 seconds
+[2025-05-15T09:59:19.880+0000] {processor.py:186} INFO - Started process (PID=6980) to work on /opt/airflow/dags/03_python_args_dag.py
+[2025-05-15T09:59:19.882+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/03_python_args_dag.py for tasks to queue
+[2025-05-15T09:59:19.884+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:59:19.884+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/03_python_args_dag.py
+[2025-05-15T09:59:19.895+0000] {processor.py:925} INFO - DAG(s) '03_python_args_dag' retrieved from /opt/airflow/dags/03_python_args_dag.py
+[2025-05-15T09:59:19.927+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:59:19.926+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-15T09:59:19.956+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:59:19.956+0000] {dag.py:4180} INFO - Setting next_dagrun for 03_python_args_dag to 2025-05-15 01:30:00+00:00, run_after=2025-05-16 01:30:00+00:00
+[2025-05-15T09:59:19.977+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/03_python_args_dag.py took 0.104 seconds

@@ -9025,3 +9025,59 @@ File Path                                    PID    Runtime      # DAGs    # Err
 /opt/airflow/dags/06_xcom_practice_dag.py                             1           0  0.12s           2025-05-15T09:56:52                      12
 /opt/airflow/dags/03_python_args_dag.py                               1           0  0.11s           2025-05-15T09:57:17                      12
 ================================================================================
+[2025-05-15T09:57:49.029+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/04_python_kwargs_dag.py                             1           0  0.19s           2025-05-15T09:57:29                      12
+/opt/airflow/dags/07_global_variable_dag.py                           1           0  0.17s           2025-05-15T09:57:32                      12
+/opt/airflow/dags/02_python_dag.py                                    1           0  0.17s           2025-05-15T09:57:47                      12
+/opt/airflow/dags/01_python_dag.py                                    1           0  0.16s           2025-05-15T09:57:47                      12
+/opt/airflow/dags/06_xcom_practice_dag.py                             1           0  0.13s           2025-05-15T09:57:23                      12
+/opt/airflow/dags/05_python_xcom_dag.py                                                                       1           0  0.13s           2025-05-15T09:57:22                      12
+/opt/airflow/dags/03_python_args_dag.py                               1           0  0.12s           2025-05-15T09:57:48                      12
+================================================================================
+[2025-05-15T09:58:19.718+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/04_python_kwargs_dag.py                             1           0  0.18s           2025-05-15T09:58:00                      12
+/opt/airflow/dags/07_global_variable_dag.py                           1           0  0.18s           2025-05-15T09:58:03                      12
+/opt/airflow/dags/01_python_dag.py                                    1           0  0.16s           2025-05-15T09:58:17                      12
+/opt/airflow/dags/02_python_dag.py                                    1           0  0.16s           2025-05-15T09:58:17                      12
+/opt/airflow/dags/03_python_args_dag.py                               1           0  0.13s           2025-05-15T09:58:18                      12
+/opt/airflow/dags/05_python_xcom_dag.py                                                                       1           0  0.13s           2025-05-15T09:57:53                      12
+/opt/airflow/dags/06_xcom_practice_dag.py                             1           0  0.12s           2025-05-15T09:57:54                      12
+================================================================================
+[2025-05-15T09:58:50.345+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/07_global_variable_dag.py                           1           0  0.19s           2025-05-15T09:58:34                      12
+/opt/airflow/dags/02_python_dag.py                                    1           0  0.16s           2025-05-15T09:58:48                      12
+/opt/airflow/dags/01_python_dag.py                                    1           0  0.16s           2025-05-15T09:58:48                      12
+/opt/airflow/dags/04_python_kwargs_dag.py                             1           0  0.13s           2025-05-15T09:58:31                      12
+/opt/airflow/dags/05_python_xcom_dag.py                                                                       1           0  0.12s           2025-05-15T09:58:23                      12
+/opt/airflow/dags/06_xcom_practice_dag.py                             1           0  0.12s           2025-05-15T09:58:24                      12
+/opt/airflow/dags/03_python_args_dag.py                               1           0  0.11s           2025-05-15T09:58:49                      12
+================================================================================
+[2025-05-15T09:59:20.996+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/02_python_dag.py                                    1           0  0.16s           2025-05-15T09:59:18                      12
+/opt/airflow/dags/01_python_dag.py                                    1           0  0.15s           2025-05-15T09:59:18                      12
+/opt/airflow/dags/05_python_xcom_dag.py                                                                       1           0  0.14s           2025-05-15T09:58:54                      12
+/opt/airflow/dags/04_python_kwargs_dag.py                             1           0  0.14s           2025-05-15T09:59:01                      12
+/opt/airflow/dags/06_xcom_practice_dag.py                             1           0  0.13s           2025-05-15T09:58:55                      12
+/opt/airflow/dags/03_python_args_dag.py                               1           0  0.13s           2025-05-15T09:59:19                      12
+/opt/airflow/dags/07_global_variable_dag.py                           1           0  0.13s           2025-05-15T09:59:04                      12
+================================================================================

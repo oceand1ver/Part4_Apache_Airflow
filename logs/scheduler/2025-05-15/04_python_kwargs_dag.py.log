@@ -2959,3 +2959,24 @@ IndentationError: unindent does not match any outer indentation level
 [2025-05-15T09:57:29.626+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:57:29.625+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2025-05-15T09:57:29.675+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:57:29.674+0000] {dag.py:4180} INFO - Setting next_dagrun for 04_python_kwargs_dag to 2025-05-15 01:30:00+00:00, run_after=2025-05-16 01:30:00+00:00
 [2025-05-15T09:57:29.701+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/04_python_kwargs_dag.py took 0.141 seconds
+[2025-05-15T09:58:00.267+0000] {processor.py:186} INFO - Started process (PID=6950) to work on /opt/airflow/dags/04_python_kwargs_dag.py
+[2025-05-15T09:58:00.270+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/04_python_kwargs_dag.py for tasks to queue
+[2025-05-15T09:58:00.274+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:00.273+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/04_python_kwargs_dag.py
+[2025-05-15T09:58:00.288+0000] {processor.py:925} INFO - DAG(s) '04_python_kwargs_dag' retrieved from /opt/airflow/dags/04_python_kwargs_dag.py
+[2025-05-15T09:58:00.326+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:00.325+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-15T09:58:00.368+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:00.367+0000] {dag.py:4180} INFO - Setting next_dagrun for 04_python_kwargs_dag to 2025-05-15 01:30:00+00:00, run_after=2025-05-16 01:30:00+00:00
+[2025-05-15T09:58:00.394+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/04_python_kwargs_dag.py took 0.142 seconds
+[2025-05-15T09:58:30.932+0000] {processor.py:186} INFO - Started process (PID=6963) to work on /opt/airflow/dags/04_python_kwargs_dag.py
+[2025-05-15T09:58:30.933+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/04_python_kwargs_dag.py for tasks to queue
+[2025-05-15T09:58:30.938+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:30.937+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/04_python_kwargs_dag.py
+[2025-05-15T09:58:30.954+0000] {processor.py:925} INFO - DAG(s) '04_python_kwargs_dag' retrieved from /opt/airflow/dags/04_python_kwargs_dag.py
+[2025-05-15T09:58:30.983+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:30.983+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-15T09:58:31.009+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:31.008+0000] {dag.py:4180} INFO - Setting next_dagrun for 04_python_kwargs_dag to 2025-05-15 01:30:00+00:00, run_after=2025-05-16 01:30:00+00:00
+[2025-05-15T09:58:31.027+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/04_python_kwargs_dag.py took 0.103 seconds
+[2025-05-15T09:59:01.584+0000] {processor.py:186} INFO - Started process (PID=6976) to work on /opt/airflow/dags/04_python_kwargs_dag.py
+[2025-05-15T09:59:01.604+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/04_python_kwargs_dag.py for tasks to queue
+[2025-05-15T09:59:01.608+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:59:01.608+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/04_python_kwargs_dag.py
+[2025-05-15T09:59:01.618+0000] {processor.py:925} INFO - DAG(s) '04_python_kwargs_dag' retrieved from /opt/airflow/dags/04_python_kwargs_dag.py
+[2025-05-15T09:59:01.647+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:59:01.646+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-15T09:59:01.674+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:59:01.674+0000] {dag.py:4180} INFO - Setting next_dagrun for 04_python_kwargs_dag to 2025-05-15 01:30:00+00:00, run_after=2025-05-16 01:30:00+00:00
+[2025-05-15T09:59:01.693+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/04_python_kwargs_dag.py took 0.117 seconds

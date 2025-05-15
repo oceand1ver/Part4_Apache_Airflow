@@ -1007,3 +1007,24 @@
 [2025-05-15T09:57:32.768+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:57:32.768+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2025-05-15T09:57:32.805+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:57:32.805+0000] {dag.py:4180} INFO - Setting next_dagrun for 07_global_variable_dag to 2025-05-15 01:30:00+00:00, run_after=2025-05-16 01:30:00+00:00
 [2025-05-15T09:57:32.828+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/07_global_variable_dag.py took 0.126 seconds
+[2025-05-15T09:58:03.311+0000] {processor.py:186} INFO - Started process (PID=6951) to work on /opt/airflow/dags/07_global_variable_dag.py
+[2025-05-15T09:58:03.316+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/07_global_variable_dag.py for tasks to queue
+[2025-05-15T09:58:03.320+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:03.319+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/07_global_variable_dag.py
+[2025-05-15T09:58:03.334+0000] {processor.py:925} INFO - DAG(s) '07_global_variable_dag' retrieved from /opt/airflow/dags/07_global_variable_dag.py
+[2025-05-15T09:58:03.377+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:03.377+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-15T09:58:03.418+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:03.417+0000] {dag.py:4180} INFO - Setting next_dagrun for 07_global_variable_dag to 2025-05-15 01:30:00+00:00, run_after=2025-05-16 01:30:00+00:00
+[2025-05-15T09:58:03.447+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/07_global_variable_dag.py took 0.148 seconds
+[2025-05-15T09:58:34.055+0000] {processor.py:186} INFO - Started process (PID=6964) to work on /opt/airflow/dags/07_global_variable_dag.py
+[2025-05-15T09:58:34.058+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/07_global_variable_dag.py for tasks to queue
+[2025-05-15T09:58:34.064+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:34.063+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/07_global_variable_dag.py
+[2025-05-15T09:58:34.082+0000] {processor.py:925} INFO - DAG(s) '07_global_variable_dag' retrieved from /opt/airflow/dags/07_global_variable_dag.py
+[2025-05-15T09:58:34.117+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:34.116+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-15T09:58:34.157+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:34.156+0000] {dag.py:4180} INFO - Setting next_dagrun for 07_global_variable_dag to 2025-05-15 01:30:00+00:00, run_after=2025-05-16 01:30:00+00:00
+[2025-05-15T09:58:34.187+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/07_global_variable_dag.py took 0.141 seconds
+[2025-05-15T09:59:04.660+0000] {processor.py:186} INFO - Started process (PID=6977) to work on /opt/airflow/dags/07_global_variable_dag.py
+[2025-05-15T09:59:04.661+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/07_global_variable_dag.py for tasks to queue
+[2025-05-15T09:59:04.664+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:59:04.664+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/07_global_variable_dag.py
+[2025-05-15T09:59:04.673+0000] {processor.py:925} INFO - DAG(s) '07_global_variable_dag' retrieved from /opt/airflow/dags/07_global_variable_dag.py
+[2025-05-15T09:59:04.700+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:59:04.699+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-15T09:59:04.735+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:59:04.734+0000] {dag.py:4180} INFO - Setting next_dagrun for 07_global_variable_dag to 2025-05-15 01:30:00+00:00, run_after=2025-05-16 01:30:00+00:00
+[2025-05-15T09:59:04.755+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/07_global_variable_dag.py took 0.102 seconds

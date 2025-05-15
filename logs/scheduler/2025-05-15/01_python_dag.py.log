@@ -7020,3 +7020,31 @@ ModuleNotFoundError: No module named 'airflow.operator'
 [2025-05-15T09:57:16.236+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:57:16.235+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2025-05-15T09:57:16.276+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:57:16.276+0000] {dag.py:4180} INFO - Setting next_dagrun for 01_python_dag to 2025-05-15 01:30:00+00:00, run_after=2025-05-16 01:30:00+00:00
 [2025-05-15T09:57:16.300+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/01_python_dag.py took 0.133 seconds
+[2025-05-15T09:57:46.878+0000] {processor.py:186} INFO - Started process (PID=6940) to work on /opt/airflow/dags/01_python_dag.py
+[2025-05-15T09:57:46.879+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/01_python_dag.py for tasks to queue
+[2025-05-15T09:57:46.883+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:57:46.883+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/01_python_dag.py
+[2025-05-15T09:57:46.898+0000] {processor.py:925} INFO - DAG(s) '01_python_dag' retrieved from /opt/airflow/dags/01_python_dag.py
+[2025-05-15T09:57:46.934+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:57:46.934+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-15T09:57:46.974+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:57:46.973+0000] {dag.py:4180} INFO - Setting next_dagrun for 01_python_dag to 2025-05-15 01:30:00+00:00, run_after=2025-05-16 01:30:00+00:00
+[2025-05-15T09:57:46.994+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/01_python_dag.py took 0.125 seconds
+[2025-05-15T09:58:17.568+0000] {processor.py:186} INFO - Started process (PID=6953) to work on /opt/airflow/dags/01_python_dag.py
+[2025-05-15T09:58:17.570+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/01_python_dag.py for tasks to queue
+[2025-05-15T09:58:17.573+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:17.573+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/01_python_dag.py
+[2025-05-15T09:58:17.586+0000] {processor.py:925} INFO - DAG(s) '01_python_dag' retrieved from /opt/airflow/dags/01_python_dag.py
+[2025-05-15T09:58:17.621+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:17.621+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-15T09:58:17.658+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:17.658+0000] {dag.py:4180} INFO - Setting next_dagrun for 01_python_dag to 2025-05-15 01:30:00+00:00, run_after=2025-05-16 01:30:00+00:00
+[2025-05-15T09:58:17.678+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/01_python_dag.py took 0.124 seconds
+[2025-05-15T09:58:48.198+0000] {processor.py:186} INFO - Started process (PID=6966) to work on /opt/airflow/dags/01_python_dag.py
+[2025-05-15T09:58:48.199+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/01_python_dag.py for tasks to queue
+[2025-05-15T09:58:48.202+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:48.202+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/01_python_dag.py
+[2025-05-15T09:58:48.216+0000] {processor.py:925} INFO - DAG(s) '01_python_dag' retrieved from /opt/airflow/dags/01_python_dag.py
+[2025-05-15T09:58:48.254+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:48.254+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-15T09:58:48.292+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:58:48.292+0000] {dag.py:4180} INFO - Setting next_dagrun for 01_python_dag to 2025-05-15 01:30:00+00:00, run_after=2025-05-16 01:30:00+00:00
+[2025-05-15T09:58:48.314+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/01_python_dag.py took 0.125 seconds
+[2025-05-15T09:59:18.852+0000] {processor.py:186} INFO - Started process (PID=6979) to work on /opt/airflow/dags/01_python_dag.py
+[2025-05-15T09:59:18.855+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/01_python_dag.py for tasks to queue
+[2025-05-15T09:59:18.859+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:59:18.858+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/01_python_dag.py
+[2025-05-15T09:59:18.872+0000] {processor.py:925} INFO - DAG(s) '01_python_dag' retrieved from /opt/airflow/dags/01_python_dag.py
+[2025-05-15T09:59:18.903+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:59:18.902+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-15T09:59:18.939+0000] {logging_mixin.py:190} INFO - [2025-05-15T09:59:18.938+0000] {dag.py:4180} INFO - Setting next_dagrun for 01_python_dag to 2025-05-15 01:30:00+00:00, run_after=2025-05-16 01:30:00+00:00
+[2025-05-15T09:59:18.963+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/01_python_dag.py took 0.120 seconds
